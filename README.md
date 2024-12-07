@@ -1,1 +1,1 @@
-Landing Page of Nayaa Channel Website.
+Landing Page 

@@ -4,6 +4,9 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      colors:{
+        'khfm-primary': '#ED193F'
+      },
       width: {
         '306': '306px',
       },

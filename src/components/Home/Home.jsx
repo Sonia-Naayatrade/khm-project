@@ -9,6 +9,8 @@ import Service from "./Service/HomeService";
 // import QuotationForm from "./QuotationForm/QuotationForm";
  import Testimonial from "./Testimonial/Testimonial";
   import Footer from "./Footer/Footer";
+import ContactUs from "./Contact/ContactUs";
+import FAQ from "./FAQ/FAQ";
 
 const Home = () => {
   return (
@@ -22,6 +24,8 @@ const Home = () => {
        <Challenges />
       {/* <QuotationForm />  */}
       <Testimonial />
+      <FAQ/>
+      <ContactUs/>
      <Footer />       
     </div>
   );
